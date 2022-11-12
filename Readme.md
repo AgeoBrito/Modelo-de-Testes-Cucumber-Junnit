@@ -1,4 +1,4 @@
-# # ♦ Exercicio de testes Cucumber/Junnit - Facens ♦
+## Utilizando Junit/Cucumber 
 
 ## ⚙️ Ferramentas utilizadas 
 
@@ -9,7 +9,7 @@
 ## 💬 Sobre
 Exemplo do uso das ferramentas Cucumber e Junnit, operando dois cenários com 4 testes embutidos.
 
-## 🎬 Features e Cenários
+## Features e Cenários
 * Feature: Cliente faz saque de dinheiro como um cliente, eu gostaria de sacar dinheiro em caixa eletrônico,
 para que eu não tenha que esperar numa fila de banco.
 
@@ -40,7 +40,8 @@ Para poder usar o projeto em sua máquina, siga os seguintes passos.
 4. Agora poderá rodar a bateria de teste.
 
 
-## 🧑 Feito por
-* Luiz Ageo - Contato: luizageu3@gmail.com.
+##  ♦Feito por♦
+- Luiz Ageo - Contato: luizageu3@gmail.com.
 
 ## ♦ Muito Obrigado ♦
+
