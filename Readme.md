@@ -13,12 +13,12 @@ Exemplo do uso das ferramentas Cucumber e Junnit, operando dois cenários com 4 
 * Feature: Cliente faz saque de dinheiro como um cliente, eu gostaria de sacar dinheiro em caixa eletrônico,
 para que eu não tenha que esperar numa fila de banco.
 
-* Cenário 1: Cliente especial com saldo negativo
+- Cenário 1: Cliente especial com saldo negativo
 Given - Um cliente especial com saldo atual de -200 reais 
 When - For solicitado um saque no valor de 100 reais
 Then - Deve efetuar o saque e atualizar o saldo da conta para -300 reais
 
-* Cenário 2: Cliente comum com saldo negativo
+- Cenário 2: Cliente comum com saldo negativo
 Given - Um cliente comum com saldo atual de -300 reais
 When - Solicitar um saque de 200 reais
 Then - Não deve efetuar o saque e deve retornar a mensagem Saldo Insuficiente
@@ -40,8 +40,9 @@ Para poder usar o projeto em sua máquina, siga os seguintes passos.
 4. Agora poderá rodar a bateria de teste.
 
 
-##  ♦Feito por♦
-- Luiz Ageo - Contato: luizageu3@gmail.com.
+##  Feito por Luiz Ageo.
+- Contato: luizageu3@gmail.com.
+- Linkedin: https://www.linkedin.com/in/luiz-ag%C3%AAo-68442a225/ 
 
-## ♦ Muito Obrigado ♦
+## Muito Obrigado 🧐🧐🧐
 
